@@ -1,8 +1,8 @@
 Package: com.thundermastermind.legacyios
 Version: 1.0b1
 Section: Themes
-Maintainer: Thundermastermind <tybrasher23@gmail.com>
-Depends: firmware (<7.0), anemone
+Maintainer: Tyler Brasher <tybrasher23@gmail.com>
+Depends: firmware (<7.0), Anemone
 Architecture: iphoneos-arm
 Filename: ./debs/com.thundermastermind.legacyios_1.0b1_iphoneos-arm.deb
 Size: 5778
