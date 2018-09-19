@@ -10,7 +10,7 @@ MD5sum: 2e1afe77661359080c2b75453276a594
 Description: LegacyiOS is a detailed iOS 6 theme for modern iOS.
 Name: LegacyiOS
 Author: Tyler Brasher <tybrasher23@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=ccom.thundermastermind.legacyios
+Depiction: https://thundermastermind.github.io/repo/depictions/?p=ccom.thundermastermind.legacyios
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
