@@ -1,22 +1,38 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.thundermastermind.legacyios</id>
+	<name>LegacyiOS</name>
+	<version>1.0b1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>anemone</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>LegacyiOS is a detailed iOS 6 theme for modern iOS.</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>LegacyiOS brings back the iOS 6 icons to your iOS 7-11 device with all of iOS 6's pleasing high detail for the Anemone theme engine. All the other themes released in the past just weren't accurate to how iOS 6 looked, so LegacyiOS sets out to do just that with as much detail as possible with the aid of original iOS 6 devices. All icons are properly masked with the bonus of icon shadows and nothing looks out of place whether it be a system app or a 3rd party app that isn’t in the theme.
+</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		SIDE NOTES:<br/> 
+		• This package is currently for the the Retina iPhone and iPod Touch only. iPhone Plus and X will work, but won’t look right.<br/>
+		• iPhone Plus and X support will arrive soon.<br/>
+		• iPad support will arrive soon after the Plus/X package is available.
+		]]>
+		</description>
+		<description><![CDATA[
+		What's included:<br/>
+		• All stock iOS 6 icons<br/>
+		• A few custom icons for system apps that didn't exist in iOS 6<br/>
+		• A couple 3rd party app icons (iOS 5 YouTube icon is included)<br/>
+		• Icon wallpaper shadows<br/>
+		• Option to switch between Helvetica Neue (iOS 6’s system font) and San Francisco for consistency with iOS 9-11’s system font.<br/>
+		• Original bold icon labels with shadows<br/>
+		• Calendar icon text<br/>
+		• iOS 6 badges<br/>
+		• Folder icons and background<br/>
+		• A few UI sound effects<br/>
 		]]>
 		</description>
 	</descriptionlist>
@@ -31,9 +47,8 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Version 1.0 Beta 1</change>
+		<change>Inital release with a lot of things that still need to be added.</change>
 	</changelog>
 	<links>
 		<link>
