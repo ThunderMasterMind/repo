@@ -1,16 +1,16 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.thundermastermind.legacyios
+Version: 1.0b1
+Section: Themes
+Maintainer: Thundermastermind <tybrasher23@gmail.com>
+Depends: firmware (<7.0), anemone
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.thundermastermind.legacyios_1.0b1_iphoneos-arm.deb
+Size: 5778
+MD5sum: 2e1afe77661359080c2b75453276a594
+Description: LegacyiOS is a detailed iOS 6 theme for modern iOS.
+Name: LegacyiOS
+Author: Tyler Brasher <tybrasher23@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=ccom.thundermastermind.legacyios
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
